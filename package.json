@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Languae Interface ",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshRotman/LIRI-Node-App.git"
+  },
+  "author": "Ash Rotman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshRotman/LIRI-Node-App/issues"
+  },
+  "homepage": "https://github.com/AshRotman/LIRI-Node-App#readme"
+}
